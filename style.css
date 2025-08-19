@@ -21,6 +21,11 @@ body {
     margin-left: 20px;
     color: var(--gray-color);
 }
+.BTS {
+    font-size: 0.9em;
+    margin-left: 20px;
+    color: var(--gray-color);
+}
 
 h1, h2{ /* title */
     color: var(--main-color);
